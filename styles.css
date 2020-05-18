@@ -1,0 +1,53 @@
+body{
+     background-color: #d9f1aa;
+}
+#theGame
+{
+     justify-content: center;
+     mar
+}
+#displayResult{
+     clear: both;
+     margin-top: 30px;
+     padding-top: 30px;
+     font-size: 20px;
+}
+#innovative
+{
+     float: left;
+     margin-left: 50px;
+     font-size: 25px;
+
+}
+#column-innovative{
+     float: left;
+     background-color: rgb(216, 193, 162);
+     margin: 5px;
+     width: 250px;
+     text-align: center;
+}
+#row-innovative{
+     float: left;
+     background-color: rgb(241, 171, 79);
+     margin: 5px;
+     width: 250px;
+     text-align: center;
+
+}
+
+table{
+     float: left;
+}
+
+.button {
+     background-color: rgb(3, 209, 199);
+     border: none;
+     color: rgb(20, 13, 13);
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 20px;
+     margin: 4px 2px;
+     cursor: pointer;
+   }
